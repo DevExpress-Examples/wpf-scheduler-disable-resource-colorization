@@ -25,7 +25,7 @@ This example creates a [BrushSet](https://docs.devexpress.com/WPF/400994/control
 * [WPF Scheduler - Customize the Appointment Appearance](https://github.com/DevExpress-Examples/how-to-customize-the-appointment-appearance-t545892)
 * [WPF Scheduler - Create Custom Labels and Statuses](https://github.com/DevExpress-Examples/how-to-implement-custom-appointment-labels-and-statuses-t545719)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-disable-resource-colorization&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-disable-resource-colorization&~~~was_helpful=no)
 
