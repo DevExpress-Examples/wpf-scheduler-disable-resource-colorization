@@ -14,7 +14,7 @@ This examples demonstrates how to disable resource colorization using a custom [
 * [SchedulingView.xaml](./CS/DXSample/Views/SchedulingView.xaml)
 <!-- default file list end -->
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-disable-resource-colorization&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-scheduler-disable-resource-colorization&~~~was_helpful=no)
 
